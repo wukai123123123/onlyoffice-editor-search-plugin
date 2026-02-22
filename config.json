@@ -1,0 +1,38 @@
+{
+    "name": "onlyoffice-editor-search-plugin",
+    "nameLocale": {
+        "zh": "onlyoffice-editor-search-plugin",
+        "en": "onlyoffice-editor-search-plugin"
+    },
+    "guid": "asc.{12345678-1234-1234-1234-1234567890AB}",
+    "version": "1.0.0",
+    "author": {
+        "name": "wukai",
+        "email": "wukai123123123@126.com"
+    },
+    "variations": [
+        {
+            "description": "Highlight search terms via external command",
+            "descriptionLocale": {
+                "zh": "通过外部命令高亮搜索词",
+                "en": "Highlight search terms via external command"
+            },
+            "isViewer": true,
+            "EditorsSupport": [
+                "word",
+                "cell",
+                "slide"
+            ],
+            "isVisual": false,
+            "isModal": false,
+            "isInsideMode": true,
+            "initDataType": "none",
+            "initData": "",
+            "icons": [
+                "resources/img/icon.png",
+                "resources/img/icon@2x.png"
+            ],
+            "buttons": []
+        }
+    ]
+}
