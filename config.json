@@ -1,8 +1,8 @@
 {
     "name": "onlyoffice-editor-search-plugin",
     "nameLocale": {
-        "zh": "onlyoffice-editor-search-plugin",
-        "en": "onlyoffice-editor-search-plugin"
+        "zh": "定位搜索组件",
+        "en": "Search Positioning Component"
     },
     "guid": "asc.{12345678-1234-1234-1234-1234567890AB}",
     "version": "1.0.0",
