@@ -1,8 +1,8 @@
 {
     "name": "onlyoffice-editor-search-plugin",
     "nameLocale": {
-        "zh": "定位搜索组件",
-        "en": "Search Positioning Component"
+        "zh": "CT功能扩展插件",
+        "en": "CT Component"
     },
     "guid": "asc.{12345678-1234-1234-1234-1234567890AB}",
     "version": "1.0.0",
@@ -12,10 +12,10 @@
     },
     "variations": [
         {
-            "description": "Highlight search terms via external command",
+            "description": "Through a series of extension plugins such as external command highlighting search terms and others",
             "descriptionLocale": {
-                "zh": "通过外部命令高亮搜索词",
-                "en": "Highlight search terms via external command"
+                "zh": "通过外部命令高亮搜索词等一系列扩展插件",
+                "en": "Through a series of extension plugins such as external command highlighting search terms and others"
             },
             "isViewer": true,
             "EditorsSupport": [
